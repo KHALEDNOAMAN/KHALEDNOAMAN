@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0077b6&height=220&section=header&text=Khaled%20Noaman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
@@ -19,27 +19,27 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```yaml
 Name: Khaled Noaman
-Location: Istanbul, Türkiye
+Location: Istanbul, Turkiye
 University: Istanbul Arel University (Computer Engineering)
 Graduation: 2026
 Focus: AI Systems, System Programming, Backend Development
 Fun Fact: I also create 3D models and animations in Blender!
 ```
 
-- 🎓 **Computer Engineering** student at Istanbul Arel University
-- 💻 Building **AI assistants**, **system-level applications**, and **backend systems**
-- 🔬 Passionate about **low-level programming**, **multithreading**, and **performance optimization**
-- 🎨 3D artist creating models and physics-based animations in **Blender**
-- 🌱 Currently exploring: **Computer Vision**, **AI/ML**, **Distributed Systems**
-- 📫 Open to **internships**, **collaborations**, and **open-source contributions**
+- **Computer Engineering** student at Istanbul Arel University
+- Building **AI assistants**, **system-level applications**, and **backend systems**
+- Passionate about **low-level programming**, **multithreading**, and **performance optimization**
+- 3D artist creating models and physics-based animations in **Blender**
+- Currently exploring: **Computer Vision**, **AI/ML**, **Distributed Systems**
+- Open to **internships**, **collaborations**, and **open-source contributions**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,24 +65,26 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌊 [**AquaClear**](https://github.com/KHALEDNOAMAN/underwater-image-enhancement) | Underwater Image Enhancement System using computer vision | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| 🧬 **DNA Pattern Detector** | High-performance multithreaded pattern matching | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| 🎓 [**University Automation**](https://github.com/KHALEDNOAMAN/UniversityAutomationApp) | University management system with student & course handling | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🏦 **Banking System** | OOP-based banking management with transactions | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🎧 [**3D Headphone**](https://github.com/KHALEDNOAMAN/Headphone_Blender) | Photorealistic headphone model & render | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
-| 🏭 [**Factory Animation**](https://github.com/KHALEDNOAMAN/Factory-Belt-Animation) | Physics-based conveyor belt simulation | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+| [**AquaClear**](https://github.com/KHALEDNOAMAN/underwater-image-enhancement) | Underwater Image Enhancement System using computer vision | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [**NovaMind**](https://github.com/KHALEDNOAMAN/NovaMind-Chatbot) | AI chatbot powered by Groq (Llama 3) with NLP analytics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| [**HelpDesk AI**](https://github.com/KHALEDNOAMAN/HelpDesk-AI) | Customer support chatbot with ticket system & FAQ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| [**InsightBoard**](https://github.com/KHALEDNOAMAN/InsightBoard) | Interactive analytics dashboard with 8 chart types | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
+| [**Heart Disease Predictor**](https://github.com/KHALEDNOAMAN/Heart-Disease-Predictor) | ML system with 95% accuracy using Gradient Boosting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| [**University Automation**](https://github.com/KHALEDNOAMAN/UniversityAutomationApp) | University management system with OOP design | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**3D Headphone**](https://github.com/KHALEDNOAMAN/Headphone_Blender) | Photorealistic headphone model & render | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+| [**Factory Animation**](https://github.com/KHALEDNOAMAN/Factory-Belt-Animation) | Physics-based conveyor belt simulation | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KHALEDNOAMAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
@@ -95,7 +97,7 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHALEDNOAMAN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="98%" alt="Contribution Graph" />
@@ -103,15 +105,15 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-💬 I'm always open to interesting conversations and collaboration opportunities.
+I'm always open to interesting conversations and collaboration opportunities.
 
-📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/khalednoaman1/)** | **[Email](mailto:khalednoaman@email.com)**
+Reach me at: **[LinkedIn](https://www.linkedin.com/in/khalednoaman1/)** | **[Email](mailto:khalednoaman@email.com)**
 
-⭐ If you find my projects useful, consider giving them a star!
+If you find my projects useful, consider giving them a star!
 
 </div>
 
@@ -121,4 +123,3 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0077b6&height=120&section=footer" width="100%" />
-]]>

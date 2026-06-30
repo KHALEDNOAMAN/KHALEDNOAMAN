@@ -54,16 +54,19 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,15 +80,15 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ## 🏗️ Internship Projects — EduTech Yazılım A.Ş.
 
-> Full-stack enterprise applications built during my software engineering internship using **React**, **Node.js**, **Express**, and **PostgreSQL**.
+> 💼 Full-stack enterprise applications built during my software engineering internship using **React**, **Node.js**, **Express**, and **PostgreSQL**.
 
 <div align="center">
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
 | 1 | [**📡 EduFlow API**](https://github.com/KHALEDNOAMAN/EduFlow-API) | RESTful API platform with JWT auth, rate limiting, course & enrollment management | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 2 | [**🎓 EduFlow Portal**](https://github.com/KHALEDNOAMAN/EduFlow-Portal) | Student & instructor dashboard with course management, progress analytics, interactive charts | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| 3 | [**👥 Employee Management System**](https://github.com/KHALEDNOAMAN/Employee-Management-System) | Full HR system with attendance tracking, leave management, department hierarchy, org chart | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 2 | [**🎓 EduFlow Portal**](https://github.com/KHALEDNOAMAN/EduFlow-Portal) | Student & instructor dashboard with course management, progress analytics, interactive charts | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 3 | [**👥 Employee Management System**](https://github.com/KHALEDNOAMAN/Employee-Management-System) | Full HR system: attendance tracking, leave management, department hierarchy, org chart | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | 4 | [**💰 Financial Income Tracker**](https://github.com/KHALEDNOAMAN/Financial-Income-Tracker) | Double-entry bookkeeping, fiscal periods, multi-currency support, P&L reports | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | 5 | [**💸 Expense Management System**](https://github.com/KHALEDNOAMAN/Expense-Management-System) | Expense claims with approval workflows, budget tracking, receipt management, 10+ categories | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | 6 | [**🏦 Fund Allocation Manager**](https://github.com/KHALEDNOAMAN/Fund-Allocation-Manager) | Multi-level approval workflows, fund transfers, budget variance analysis, 5 fund types | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
@@ -101,14 +104,14 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AquaClear**](https://github.com/KHALEDNOAMAN/underwater-image-enhancement) | Underwater Image Enhancement System using computer vision | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| [**NovaMind**](https://github.com/KHALEDNOAMAN/NovaMind-Chatbot) | AI chatbot powered by Groq (Llama 3) with NLP analytics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
-| [**HelpDesk AI**](https://github.com/KHALEDNOAMAN/HelpDesk-AI) | Customer support chatbot with ticket system & FAQ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
-| [**InsightBoard**](https://github.com/KHALEDNOAMAN/InsightBoard) | Interactive analytics dashboard with 8 chart types | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
-| [**Heart Disease Predictor**](https://github.com/KHALEDNOAMAN/Heart-Disease-Predictor) | ML system with 95% accuracy using Gradient Boosting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| [**University Automation**](https://github.com/KHALEDNOAMAN/UniversityAutomationApp) | University management system with OOP design | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**3D Headphone**](https://github.com/KHALEDNOAMAN/Headphone_Blender) | Photorealistic headphone model & render | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
-| [**Factory Animation**](https://github.com/KHALEDNOAMAN/Factory-Belt-Animation) | Physics-based conveyor belt simulation | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+| [**🌊 AquaClear**](https://github.com/KHALEDNOAMAN/underwater-image-enhancement) | Underwater Image Enhancement System using computer vision | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [**🤖 NovaMind**](https://github.com/KHALEDNOAMAN/NovaMind-Chatbot) | AI chatbot powered by Groq (Llama 3) with NLP analytics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| [**🎧 HelpDesk AI**](https://github.com/KHALEDNOAMAN/HelpDesk-AI) | Customer support chatbot with ticket system & FAQ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
+| [**📊 InsightBoard**](https://github.com/KHALEDNOAMAN/InsightBoard) | Interactive analytics dashboard with 8 chart types | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
+| [**❤️ Heart Disease Predictor**](https://github.com/KHALEDNOAMAN/Heart-Disease-Predictor) | ML system with 95% accuracy using Gradient Boosting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| [**🏫 University Automation**](https://github.com/KHALEDNOAMAN/UniversityAutomationApp) | University management system with OOP design | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**🎧 3D Headphone**](https://github.com/KHALEDNOAMAN/Headphone_Blender) | Photorealistic headphone model & render | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+| [**🏭 Factory Animation**](https://github.com/KHALEDNOAMAN/Factory-Belt-Animation) | Physics-based conveyor belt simulation | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
 
 </div>
 

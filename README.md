@@ -88,7 +88,7 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**📋 ProjectFlow**](https://github.com/KHALEDNOAMAN/ProjectFlow) | Agile project management tool with Kanban boards, sprint planning, burndown charts, team workload analytics & drag-and-drop | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
+| [**📋 ProjectFlow**](https://github.com/KHALEDNOAMAN/ProjectFlow) | Agile project management tool with Kanban boards, sprint planning, burndown charts & drag-and-drop. [**Live Demo →**](https://project-flow-elnoaman.vercel.app) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
 
 </div>
 

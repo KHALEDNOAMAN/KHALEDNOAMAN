@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+PostgreSQL;Building+Enterprise+ERP+%26+Financial+Systems;AI+Systems+%7C+3D+Artist+%7C+System+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+PostgreSQL;Building+Enterprise+ERP+%26+Financial+Systems;Aspiring+Engineering+Manager+%7C+Agile+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,12 +28,14 @@ University: Istanbul Arel University (Computer Engineering)
 Graduation: 2026
 Focus: Full-Stack Development, AI Systems, System Programming
 Current: Software Engineering Intern at EduTech Yazilim A.S.
+Goal: Engineering Manager | Tech Lead
 Fun Fact: I also create 3D models and animations in Blender!
 ```
 
 - 🎓 **Computer Engineering** student at Istanbul Arel University
 - 💼 **Software Engineering Intern** at EduTech Yazılım A.Ş. (Istanbul)
 - 🏗️ Building **enterprise-grade ERP systems**, **financial platforms**, and **AI assistants**
+- 🎯 Aspiring **Engineering Manager** — passionate about **team leadership** and **Agile methodologies**
 - ⚡ Passionate about **full-stack development**, **system design**, and **performance optimization**
 - 🎨 3D artist creating photorealistic models and physics-based animations in **Blender**
 - 🌱 Currently exploring: **Microservices Architecture**, **DevOps**, **Cloud Deployment**
@@ -73,6 +75,20 @@ Fun Fact: I also create 3D models and animations in Blender!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📋 Leadership & Management Projects
+
+> 🎯 Projects that demonstrate **Agile methodology**, **team management**, and **engineering leadership** skills.
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**📋 ProjectFlow**](https://github.com/KHALEDNOAMAN/ProjectFlow) | Agile project management tool with Kanban boards, sprint planning, burndown charts, team workload analytics & drag-and-drop | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
 
 </div>
 

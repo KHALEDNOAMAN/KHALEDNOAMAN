@@ -85,7 +85,7 @@ Fun Fact: I also create 3D models and animations in Blender!
 
 ## 📋 Leadership & Management Projects
 
-> 🎯 Projects that demonstrate **Agile methodology**, **team management**, and **engineering leadership** skills.
+> 🎯 Projects that demonstrate **Agile methodology**, **control systems**, and **engineering leadership**, **team management**, and **engineering leadership** skills.
 
 <div align="center">
 
@@ -95,6 +95,7 @@ Fun Fact: I also create 3D models and animations in Blender!
 | [**💬 ChatFlow**](https://github.com/KHALEDNOAMAN/ChatFlow) | Real-time team chat with Socket.io WebSockets, channels, typing indicators, emoji reactions & online presence. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
 | [**📊 TeamPulse**](https://github.com/KHALEDNOAMAN/TeamPulse) | Team performance dashboard with OKR tracking, sprint analytics, meeting notes, retrospective boards & workload visualization. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [**📱 TaskMobile**](https://github.com/KHALEDNOAMAN/TaskMobile) | Mobile habit tracker & task manager with streak tracking, gamification, XP/level system & analytics. | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**🚁 DroneCtrl**](https://github.com/KHALEDNOAMAN/DroneCtrl) | Quadcopter flight controller with PID stabilization, sensor fusion & interactive 3D simulator. Real firmware + playable web game. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 </div>
 

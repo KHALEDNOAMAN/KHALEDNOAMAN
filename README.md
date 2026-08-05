@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+PostgreSQL;Building+Enterprise+ERP+%26+Financial+Systems;Aspiring+Engineering+Manager+%7C+Agile+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+%2B+Embedded+Systems+Developer;Building+Enterprise+ERP+%26+Control+Systems+with+Simulators;10%2B+Repos+%7C+C%2B%2B+%7C+Verilog+%7C+React+%7C+Three.js+%7C+IoT" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,10 +26,10 @@ Name: Khaled Noaman
 Location: Istanbul, Turkiye
 University: Istanbul Arel University (Computer Engineering)
 Graduation: 2026
-Focus: Full-Stack Development, AI Systems, System Programming
+Focus: Full-Stack Development, Embedded Systems, Control Systems, AI
 Current: Software Engineering Intern at EduTech Yazilim A.S.
 Goal: Engineering Manager | Tech Lead
-Fun Fact: I also create 3D models and animations in Blender!
+Fun Fact: I build hardware simulators to test firmware before flashing!
 ```
 
 - 🎓 **Computer Engineering** student at Istanbul Arel University
@@ -63,6 +63,15 @@ Fun Fact: I also create 3D models and animations in Blender!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+### Embedded & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Backend & Database
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

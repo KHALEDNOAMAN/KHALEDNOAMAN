@@ -157,7 +157,7 @@ Fun Fact: I build hardware simulators to test firmware before flashing!
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KHALEDNOAMAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=KHALEDNOAMAN&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KHALEDNOAMAN&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">

@@ -153,6 +153,23 @@ Fun Fact: I build hardware simulators to test firmware before flashing!
 
 ---
 
+## 🌍 Open Source & Community Resources
+
+> ⭐ **Fork-friendly** repos designed for the community — templates, study guides, and curated resources. Fork, customize, and make them yours!
+
+<div align="center">
+
+| Project | Description | For |
+|---------|-------------|-----|
+| [**🎨 awesome-github-profile-readme**](https://github.com/KHALEDNOAMAN/awesome-github-profile-readme) | 10+ stunning GitHub Profile README templates — minimal, developer, student, embedded, fullstack, cybersecurity, and more! | Everyone |
+| [**💼 developer-portfolio-template**](https://github.com/KHALEDNOAMAN/developer-portfolio-template) | Premium React + Vite portfolio with dark theme, animations, scroll reveals. Edit ONE config file to customize! | Developers |
+| [**📚 cs-interview-prep**](https://github.com/KHALEDNOAMAN/cs-interview-prep) | Complete CS interview kit — DSA, system design, OOP, OS, networking, behavioral. Fork to track your progress! | Students |
+| [**⚡ awesome-embedded-systems**](https://github.com/KHALEDNOAMAN/awesome-embedded-systems) | Curated list of embedded resources — boards, RTOS, protocols, books, courses, project ideas | Engineers |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

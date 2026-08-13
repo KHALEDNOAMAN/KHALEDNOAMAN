@@ -127,13 +127,13 @@ const khaled = {
 
 ### Weekly Coding Breakdown
 
-```text
-C / C++      ████████████████████████████████████████████████    80%  Firmware & DSA
-Verilog      █████                                               8%  Digital Logic & CPU Design
-TypeScript   ███                                                 5%  npm Packages
-Python       ██                                                  4%  Automation & CV
-Shell        ██                                                  3%  DevOps & Scripts
-```
+<pre>
+C / C++      ████████████████████████████████████████░░░░░░░░░░  80%   Firmware & DSA
+Verilog      ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%   Digital Logic & CPU Design
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%   npm Packages
+Python       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%   Automation & CV
+Shell        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%   DevOps & Scripts
+</pre>
 
 </div>
 

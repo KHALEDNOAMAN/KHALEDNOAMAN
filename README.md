@@ -1,20 +1,25 @@
-<!-- HEADER -->
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Khaled%20Noaman&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Embedded%20Systems%20%7C%20Robotics%20%7C%20Open%20Source&descSize=18&descAlignY=55&animation=fadeIn)
 
-  <a href="https://github.com/KHALEDNOAMAN"><img src="https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117" alt="followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="views"/>
-  <a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/badge/Repos-23+-7c3aed?style=for-the-badge&logo=github" alt="repos"/></a>
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Khaled%20Noaman&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Robotics%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
-  <br/>
+<!-- BADGES -->
+<br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A7+Building+firmware+that+makes+machines+think;%F0%9F%93%A6+Publishing+npm+packages+for+embedded+%26+IoT;%F0%9F%A4%9D+Contributing+to+72K%2B+%E2%AD%90+open+source+projects" alt="Typing SVG" />
+[![Followers](https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117)](https://github.com/KHALEDNOAMAN)
+![Views](https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile+Views&color=00d4ff&style=for-the-badge)
+[![Repos](https://img.shields.io/badge/Repos-23+-7c3aed?style=for-the-badge&logo=github)](https://github.com/KHALEDNOAMAN?tab=repositories)
+
+<!-- TYPING SVG -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%A7+Building+firmware+that+makes+machines+think;%F0%9F%93%A6+Publishing+npm+packages+for+embedded+%26+IoT;%F0%9F%A4%9D+Contributing+to+72K%2B+%E2%AD%90+open+source+projects" />
 
 </div>
 
-<!-- ABOUT -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+---
+
+## 🧑‍💻 About Me
 
 ```typescript
 const khaled = {
@@ -23,26 +28,23 @@ const khaled = {
     languages: ["C", "C++", "Python", "TypeScript", "Verilog", "Bash"],
     tools: ["Arduino", "ESP32", "Raspberry Pi", "STM32", "Linux"],
     currentlyLearning: "FPGA Design & Real-Time Operating Systems",
-    funFact: "I debug hardware bugs with an oscilloscope at 3 AM"
+    funFact: "I debug hardware bugs with an oscilloscope at 3 AM 😃"
 };
 ```
 
-<!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Embedded** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) |
-| **Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,bash&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,vscode,cmake,gradle&theme=dark" />
 </div>
 
-<!-- PUBLISHED PACKAGES -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Published Packages
+---
+
+## 📦 Published Packages
 
 <div align="center">
 
@@ -52,15 +54,15 @@ const khaled = {
 
 </div>
 
-> **Install any package:**
-> ```bash
-> npm i @khalednoaman/pid-controller    # PID controller with auto-tuning & Kalman filter
-> npm i @khalednoaman/embedded-utils    # CRC, ring buffers, state machines, protocol parsers
-> npx @khalednoaman/cli-dashboard       # Terminal system monitor
-> ```
+```bash
+npm i @khalednoaman/pid-controller    # 🎛️ PID controller with auto-tuning & Kalman filter
+npm i @khalednoaman/embedded-utils    # ⚡ CRC, ring buffers, state machines, parsers
+npx @khalednoaman/cli-dashboard       # 📊 Terminal system monitor
+```
 
-<!-- ROBOTICS -->
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Robotics & Control Systems
+---
+
+## 🤖 Robotics & Control Systems
 
 <div align="center">
 
@@ -71,8 +73,9 @@ const khaled = {
 
 </div>
 
-<!-- CS & ENGINEERING -->
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Computer Science & Engineering
+---
+
+## 💻 Computer Science & Engineering
 
 <div align="center">
 
@@ -83,8 +86,9 @@ const khaled = {
 
 </div>
 
-<!-- COMMUNITY -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Community & Resources
+---
+
+## 📚 Community & Resources
 
 <div align="center">
 
@@ -95,12 +99,13 @@ const khaled = {
 
 </div>
 
-<!-- OPEN SOURCE -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Open Source Contributions
+---
+
+## 🌍 Open Source Contributions
 
 <div align="center">
 
-| Project | Stars | My Contribution |
+| Project | ⭐ Stars | My Contribution |
 |---------|-------|-----------------|
 | [**ardupilot**](https://github.com/ArduPilot/ardupilot) | 16K+ | Drone autopilot firmware |
 | [**arduino-esp32**](https://github.com/espressif/arduino-esp32) | 17K+ | ESP32 Arduino core |
@@ -110,8 +115,9 @@ const khaled = {
 
 </div>
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KHALEDNOAMAN&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&ring_color=00d4ff&title_color=00d4ff&icon_color=7c3aed" width="49%" />
@@ -128,49 +134,49 @@ const khaled = {
 <!-- TROPHIES -->
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KHALEDNOAMAN&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KHALEDNOAMAN&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/KHALEDNOAMAN)
+  
 </div>
 
-<!-- SNAKE -->
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <br/>
-  
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/ocean.gif" width="100%" alt="Ocean Snake"/>
+---
+
+<div align="center">
+
+### 💻 Weekly Coding Breakdown
+
+```text
+C/C++        ████████████████████░░░░░   80.0%  (Firmware & DSA)
+Verilog      ████░░░░░░░░░░░░░░░░░░░░░    8.0%  (Digital Logic)
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░    5.0%  (npm Packages)
+Python       ██░░░░░░░░░░░░░░░░░░░░░░░    4.0%  (Automation)
+Shell        █░░░░░░░░░░░░░░░░░░░░░░░░    3.0%  (DevOps)
+```
+
+</div>
+
+---
+
+<div align="center">
+  
+  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/KHALEDNOAMAN)
   
 </div>
 
-<!-- METRICS -->
-<div align="center">
-
-  ### Weekly Coding Breakdown
-  
-  ```text
-  C/C++        ████████████████████░░░░░   80.0%  (Firmware & DSA)
-  Verilog      ████░░░░░░░░░░░░░░░░░░░░░    8.0%  (Digital Logic)
-  TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░    5.0%  (npm Packages)
-  Python       ██░░░░░░░░░░░░░░░░░░░░░░░    4.0%  (Automation)
-  Shell        █░░░░░░░░░░░░░░░░░░░░░░░░    3.0%  (DevOps)
-  ```
-
-</div>
-
-<!-- QUOTE -->
-<div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-</div>
-
-<!-- FOOTER -->
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer)
+<!-- WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=100&section=footer" width="100%"/>
 
 <div align="center">
-  <b>If you find my projects useful, consider giving them a star! It motivates me to build more.</b>
+  <b>⭐ If you find my projects useful, consider giving them a star! It motivates me to build more. ⭐</b>
 </div>

@@ -1,211 +1,205 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Khaled+Noaman;Computer+Engineering+Student;Embedded+Systems+%7C+Robotics+%7C+IoT;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0077b6&height=220&section=header&text=Khaled%20Noaman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+%2B+Embedded+Systems+Developer;Building+Enterprise+ERP+%26+Control+Systems+with+Simulators;10%2B+Repos+%7C+C%2B%2B+%7C+Verilog+%7C+React+%7C+Three.js+%7C+IoT" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalednoaman1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledNoaman)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalednoaman@email.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/KHALEDNOAMAN"><img src="https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=social" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  <a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/badge/Repos-23-blue?style=flat&logo=github" alt="repos"/></a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name: Khaled Noaman
-Location: Istanbul, Turkiye
-University: Istanbul Arel University (Computer Engineering)
-Graduation: 2026
-Focus: Full-Stack Development, Embedded Systems, Control Systems, AI
-Current: Software Engineering Intern at EduTech Yazilim A.S.
-Goal: Engineering Manager | Tech Lead
-Fun Fact: I build hardware simulators to test firmware before flashing!
-```
-
-- 🎓 **Computer Engineering** student at Istanbul Arel University
-- 💼 **Software Engineering Intern** at EduTech Yazılım A.Ş. (Istanbul)
-- 🏗️ Building **enterprise-grade ERP systems**, **financial platforms**, and **AI assistants**
-- 🎯 Aspiring **Engineering Manager** — passionate about **team leadership** and **Agile methodologies**
-- ⚡ Passionate about **full-stack development**, **system design**, and **performance optimization**
-- 🎨 3D artist creating photorealistic models and physics-based animations in **Blender**
-- 🌱 Currently exploring: **Microservices Architecture**, **DevOps**, **Cloud Deployment**
+- 🎓 **Computer Engineering** student passionate about embedded systems & robotics
+- 🔧 Building real-world **firmware**, **control systems**, and **IoT solutions**
+- 📦 Publishing **npm packages** for the embedded/robotics community
+- 🤝 Contributing to **open-source** projects with 72K+ ⭐
+- 🏆 Focused on writing **clean, tested, production-ready code**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-### Embedded & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
-### Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,verilog,arduino,raspberrypi,linux,bash,git,github,vscode,docker,react,nodejs&perline=8" />
+</p>
 
 ---
 
-## 📋 Leadership & Management Projects
+## 📦 Published Packages
 
-> 🎯 Projects that demonstrate **Agile methodology**, **control systems**, and **engineering leadership**, **team management**, and **engineering leadership** skills.
+<table>
+<tr>
+<td width="33%">
 
-<div align="center">
+### 🎛️ [pid-controller-js](https://github.com/KHALEDNOAMAN/pid-controller-js)
+Lightweight PID controller with **auto-tuning**, cascade control, and **Kalman filtering**. For robotics, drones, IoT.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**📋 ProjectFlow**](https://github.com/KHALEDNOAMAN/ProjectFlow) | Agile project management tool with Kanban boards, sprint planning, burndown charts & drag-and-drop. [**Live Demo →**](https://project-flow-elnoaman.vercel.app) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
-| [**💬 ChatFlow**](https://github.com/KHALEDNOAMAN/ChatFlow) | Real-time team chat with Socket.io WebSockets, channels, typing indicators, emoji reactions & online presence. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| [**📊 TeamPulse**](https://github.com/KHALEDNOAMAN/TeamPulse) | Team performance dashboard with OKR tracking, sprint analytics, meeting notes, retrospective boards & workload visualization. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| [**📱 TaskMobile**](https://github.com/KHALEDNOAMAN/TaskMobile) | Mobile habit tracker & task manager with streak tracking, gamification, XP/level system & analytics. | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**🚁 DroneCtrl**](https://github.com/KHALEDNOAMAN/DroneCtrl) | Quadcopter flight controller with PID stabilization, sensor fusion & interactive 3D simulator. Real firmware + playable web game. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**🏎️ AutoPilot**](https://github.com/KHALEDNOAMAN/AutoPilot) | Self-driving RC car with A* path planning, PID lane following, obstacle avoidance & 2D simulator. Drive manually or toggle autopilot! | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Canvas](https://img.shields.io/badge/-Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [**🤖 RoboArm**](https://github.com/KHALEDNOAMAN/RoboArm) | 6-DOF robot arm with inverse kinematics, trajectory planning, G-code parser & 3D claw machine simulator. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**📡 VehiclePulse**](https://github.com/KHALEDNOAMAN/VehiclePulse) | IoT vehicle telemetry dashboard with real-time gauges, GPS tracking, MQTT streaming & racing simulator. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**🖥️ RISC-16bit-Processor**](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor) | 16-bit RISC processor in Verilog HDL — ALU, Control Unit, Register File, Instruction/Data Memory, with full testbench and waveform simulation. | ![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square) ![ModelSim](https://img.shields.io/badge/-ModelSim-0071C5?style=flat-square) ![FPGA](https://img.shields.io/badge/-FPGA-orange?style=flat-square) |
+`npm i @khalednoaman/pid-controller`
 
-</div>
+</td>
+<td width="33%">
 
----
+### ⚡ [embedded-utils](https://github.com/KHALEDNOAMAN/embedded-utils)
+**CRC calculators**, ring buffers, state machines, protocol parsers, bit manipulation. Essential embedded toolbox.
 
-## 🏗️ Internship Projects — EduTech Yazılım A.Ş.
+`npm i @khalednoaman/embedded-utils`
 
-> 💼 Full-stack enterprise applications built during my software engineering internship using **React**, **Node.js**, **Express**, and **PostgreSQL**.
+</td>
+<td width="33%">
 
-<div align="center">
+### 📊 [cli-dashboard](https://github.com/KHALEDNOAMAN/cli-dashboard)
+Beautiful **terminal dashboard** monitoring CPU, RAM, disk, network, and Git stats in real-time.
 
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | [**📡 EduFlow API**](https://github.com/KHALEDNOAMAN/EduFlow-API) | RESTful API platform with JWT auth, rate limiting, course & enrollment management | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 2 | [**🎓 EduFlow Portal**](https://github.com/KHALEDNOAMAN/EduFlow-Portal) | Student & instructor dashboard with course management, progress analytics, interactive charts | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 3 | [**👥 Employee Management System**](https://github.com/KHALEDNOAMAN/Employee-Management-System) | Full HR system: attendance tracking, leave management, department hierarchy, org chart | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 4 | [**💰 Financial Income Tracker**](https://github.com/KHALEDNOAMAN/Financial-Income-Tracker) | Double-entry bookkeeping, fiscal periods, multi-currency support, P&L reports | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 5 | [**💸 Expense Management System**](https://github.com/KHALEDNOAMAN/Expense-Management-System) | Expense claims with approval workflows, budget tracking, receipt management, 10+ categories | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 6 | [**🏦 Fund Allocation Manager**](https://github.com/KHALEDNOAMAN/Fund-Allocation-Manager) | Multi-level approval workflows, fund transfers, budget variance analysis, 5 fund types | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 7 | [**🏗️ EduFlow ERP**](https://github.com/KHALEDNOAMAN/EduFlow-ERP) | Unified ERP integrating HR + Finance + Fund modules with cross-module analytics dashboard | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+`npx @khalednoaman/cli-dashboard`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Other Projects
+## 🤖 Robotics & Control Systems
 
-<div align="center">
+<table>
+<tr>
+<td width="25%">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**🌊 AquaClear**](https://github.com/KHALEDNOAMAN/underwater-image-enhancement) | Underwater Image Enhancement System using computer vision | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| [**🤖 NovaMind**](https://github.com/KHALEDNOAMAN/NovaMind-Chatbot) | AI chatbot powered by Groq (Llama 3) with NLP analytics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
-| [**🎧 HelpDesk AI**](https://github.com/KHALEDNOAMAN/HelpDesk-AI) | Customer support chatbot with ticket system & FAQ | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
-| [**📊 InsightBoard**](https://github.com/KHALEDNOAMAN/InsightBoard) | Interactive analytics dashboard with 8 chart types | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) |
-| [**❤️ Heart Disease Predictor**](https://github.com/KHALEDNOAMAN/Heart-Disease-Predictor) | ML system with 95% accuracy using Gradient Boosting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| [**🏫 University Automation**](https://github.com/KHALEDNOAMAN/UniversityAutomationApp) | University management system with OOP design | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**🎧 3D Headphone**](https://github.com/KHALEDNOAMAN/Headphone_Blender) | Photorealistic headphone model & render | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
-| [**🏭 Factory Animation**](https://github.com/KHALEDNOAMAN/Factory-Belt-Animation) | Physics-based conveyor belt simulation | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+### 🚁 [DroneCtrl](https://github.com/KHALEDNOAMAN/DroneCtrl)
+Quadcopter flight controller with PID stabilization, GPS waypoints, and failsafe modes
 
-</div>
+</td>
+<td width="25%">
+
+### 🚗 [AutoPilot](https://github.com/KHALEDNOAMAN/AutoPilot)
+Autonomous vehicle system with lane detection, camera calibration, and PID steering
+
+</td>
+<td width="25%">
+
+### 🦾 [RoboArm](https://github.com/KHALEDNOAMAN/RoboArm)
+6-DOF robotic arm with inverse kinematics, trajectory planning, and servo calibration
+
+</td>
+<td width="25%">
+
+### 🏎️ [VehiclePulse](https://github.com/KHALEDNOAMAN/VehiclePulse)
+OBD-II vehicle diagnostics with real-time dashboard, alerts, and data logging
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Open Source & Community Resources
+## 💻 Computer Science & Engineering
 
-> ⭐ **Fork-friendly** repos designed for the community — templates, study guides, and curated resources. Fork, customize, and make them yours!
+<table>
+<tr>
+<td width="25%">
 
-<div align="center">
+### 🧮 [DSA-Cpp](https://github.com/KHALEDNOAMAN/DSA-Cpp)
+Complete DSA in C++: sorting, graphs, DP, trees, heaps, tries, sliding window, intervals
 
-| Project | Description | For |
-|---------|-------------|-----|
-| [**🎨 awesome-github-profile-readme**](https://github.com/KHALEDNOAMAN/awesome-github-profile-readme) | 10+ stunning GitHub Profile README templates — minimal, developer, student, embedded, fullstack, cybersecurity, and more! | Everyone |
-| [**💼 developer-portfolio-template**](https://github.com/KHALEDNOAMAN/developer-portfolio-template) | Premium React + Vite portfolio with dark theme, animations, scroll reveals. Edit ONE config file to customize! | Developers |
-| [**📚 cs-interview-prep**](https://github.com/KHALEDNOAMAN/cs-interview-prep) | Complete CS interview kit — DSA, system design, OOP, OS, networking, behavioral. Fork to track your progress! | Students |
-| [**⚡ awesome-embedded-systems**](https://github.com/KHALEDNOAMAN/awesome-embedded-systems) | Curated list of embedded resources — boards, RTOS, protocols, books, courses, project ideas | Engineers |
+</td>
+<td width="25%">
 
-</div>
+### 🏗️ [CPP-DesignPatterns](https://github.com/KHALEDNOAMAN/CPP-DesignPatterns)
+23+ design patterns: creational, structural, behavioral, concurrency, architectural
+
+</td>
+<td width="25%">
+
+### ⚙️ [RISC-16bit-Processor](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor)
+16-bit RISC CPU in Verilog with pipeline, cache, and hazard detection
+
+</td>
+<td width="25%">
+
+### 🔌 [Digital-Logic-Labs](https://github.com/KHALEDNOAMAN/Digital-Logic-Labs)
+Verilog labs: ALU, FSM, CPU datapath, VGA, I2C, PWM, seven-segment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Knowledge Base & Community
+
+<table>
+<tr>
+<td width="25%">
+
+### 📝 [EmbeddedSystems-Notes](https://github.com/KHALEDNOAMAN/EmbeddedSystems-Notes)
+Protocols, bootloaders, OTA updates, RTOS, secure boot, unit testing
+
+</td>
+<td width="25%">
+
+### 🐧 [Linux-DevTools](https://github.com/KHALEDNOAMAN/Linux-DevTools)
+Shell scripts for monitoring, Git hooks, Docker helpers, SSH management
+
+</td>
+<td width="25%">
+
+### 🎯 [cs-interview-prep](https://github.com/KHALEDNOAMAN/cs-interview-prep)
+FAANG patterns, system design, SQL, LLD, Git questions, salary negotiation
+
+</td>
+<td width="25%">
+
+### 🌟 [awesome-embedded-systems](https://github.com/KHALEDNOAMAN/awesome-embedded-systems)
+Curated resources: FPGA, PCB design, safety standards, simulation tools
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%">
+
+### 👤 [awesome-github-profile-readme](https://github.com/KHALEDNOAMAN/awesome-github-profile-readme)
+19+ profile README templates for devs: mobile, backend, AI, cloud, freelancer
+
+</td>
+<td width="33%">
+
+### 🎨 [developer-portfolio-template](https://github.com/KHALEDNOAMAN/developer-portfolio-template)
+React/Vite portfolio with dark theme, blog integration, deployment guides
+
+</td>
+<td width="33%">
+
+### 🔧 Open Source Forks
+Contributing to **ardupilot** (16K⭐), **arduino-esp32** (17K⭐), **cp-algorithms** (11K⭐), **MyTinySTL** (12K⭐)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KHALEDNOAMAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KHALEDNOAMAN&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KHALEDNOAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KHALEDNOAMAN&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KHALEDNOAMAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDNOAMAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="40%" />
+</p>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHALEDNOAMAN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="98%" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHALEDNOAMAN&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities.
-
-Reach me at: **[LinkedIn](https://www.linkedin.com/in/khalednoaman1/)** | **[Email](mailto:khalednoaman@email.com)**
-
-If you find my projects useful, consider giving them a ⭐!
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHALEDNOAMAN&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0077b6&height=120&section=footer" width="100%" />
+<p align="center">
+  <b>⚡ "Write code that machines can execute and humans can understand." ⚡</b>
+</p>

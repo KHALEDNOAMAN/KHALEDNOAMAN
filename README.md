@@ -135,7 +135,13 @@ const khaled = {
 <div align="center">
   <br/>
   
-  ![Snake animation](https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/github-snake-dark.svg" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/KHALEDNOAMAN/KHALEDNOAMAN/output/ocean.gif" width="100%" alt="Ocean Snake"/>
   
 </div>
 

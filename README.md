@@ -21,10 +21,10 @@
 ```typescript
 const khaled = {
     role: "Computer Engineering Student",
-    focus: ["Embedded Systems", "Robotics", "IoT", "Control Theory"],
+    focus: ["Embedded Systems", "Networking", "Cloud Infrastructure", "Robotics"],
     languages: ["C", "C++", "Python", "TypeScript", "Verilog", "Bash"],
     tools: ["Arduino", "ESP32", "Raspberry Pi", "STM32", "Linux"],
-    currentlyLearning: "FPGA Design & Real-Time Operating Systems",
+    currentlyLearning: "VMware, SDN & Cloud Infrastructure",
     funFact: "I debug hardware bugs with an oscilloscope at 3 AM"
 };
 ```
@@ -36,7 +36,7 @@ const khaled = {
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,bash&theme=dark" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,vscode,cmake,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,vscode,docker,linux&theme=dark" />
 </div>
 
 ---
@@ -71,6 +71,17 @@ const khaled = {
 | [**RISC-16bit-Processor**](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor) | 16-bit RISC CPU with 5-stage pipeline, cache & hazard detection | ![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square) |
 | [**Digital-Logic-Labs**](https://github.com/KHALEDNOAMAN/Digital-Logic-Labs) | ALU, FSM, CPU datapath, VGA controller, I2C, PWM, seven-segment | ![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square) |
 
+
+---
+
+## Networking & Infrastructure
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**NetScope**](https://github.com/KHALEDNOAMAN/NetScope) | Network monitoring & packet analysis dashboard with real-time traffic visualization and threat detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scapy](https://img.shields.io/badge/-Scapy-2496ED?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| [**InfraGuard**](https://github.com/KHALEDNOAMAN/InfraGuard) | Infrastructure health monitor for VMs, containers & servers with SSH checks, alerts & dashboards | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Paramiko](https://img.shields.io/badge/-SSH-000?style=flat-square) |
+| [**NetAutomate**](https://github.com/KHALEDNOAMAN/NetAutomate) | Network automation toolkit for router/switch/firewall config — VLAN provisioning, ACL management & compliance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Netmiko](https://img.shields.io/badge/-Netmiko-0078D4?style=flat-square) ![NAPALM](https://img.shields.io/badge/-NAPALM-FF6F00?style=flat-square) |
+| [**CloudNet-Sim**](https://github.com/KHALEDNOAMAN/CloudNet-Sim) | Virtual network & cloud simulator with SDN controller, firewall rules, load balancing & topology builder | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-4B8BBE?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 ---
 
 ## Community & Resources

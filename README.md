@@ -4,15 +4,15 @@
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117)](https://github.com/KHALEDNOAMAN)
-![Views](https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile+Views&color=00d4ff&style=for-the-badge)
-[![Stars](https://img.shields.io/github/stars/KHALEDNOAMAN?label=Total+Stars&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117)](https://github.com/KHALEDNOAMAN)
+<a href="https://github.com/KHALEDNOAMAN"><img src="https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/github/stars/KHALEDNOAMAN?label=Total+Stars&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117" /></a>
 
 <br/>
 
-[![Networking](https://img.shields.io/badge/Networking-00D4FF?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
-[![Embedded](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
-[![Cloud](https://img.shields.io/badge/Cloud_Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
+<a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/badge/Networking-00D4FF?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+<a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/badge/Cloud_Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
 
 </div>
 

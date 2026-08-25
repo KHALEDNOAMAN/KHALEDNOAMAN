@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://github.com/KHALEDNOAMAN"><img src="https://img.shields.io/github/followers/KHALEDNOAMAN?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=KHALEDNOAMAN&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-<a href="https://github.com/KHALEDNOAMAN?tab=repositories"><img src="https://img.shields.io/github/stars/KHALEDNOAMAN?label=Total+Stars&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/Computer_Engineer-0d1117?style=for-the-badge&logo=processingfoundation&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Open_Source_Contributor-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=7c3aed" />
+<img src="https://img.shields.io/badge/Available_for_Hire-0d1117?style=for-the-badge&logo=handshake&logoColor=00ff88" />
 
 <br/>
 

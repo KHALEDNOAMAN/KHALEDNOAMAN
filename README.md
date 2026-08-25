@@ -10,7 +10,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%24+sudo+./deploy+--target+production+%F0%9F%9A%80;Building+networks+that+connect+the+world+%F0%9F%8C%90;Automating+infrastructure+at+scale+%E2%9A%A1;From+packets+to+cloud+%E2%80%94+full+stack+engineer+%F0%9F%94%A7;Open+source+contributor+%7C+20%2B+projects+shipped+%F0%9F%93%A6" />
+[![Networking](https://img.shields.io/badge/Networking-00D4FF?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
+[![Embedded](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
+[![Cloud](https://img.shields.io/badge/Cloud_Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/KHALEDNOAMAN?tab=repositories)
 
 </div>
 
@@ -138,26 +140,15 @@ const khaled = {
 
 ### ⚡ System Status
 
-```css
-╔══════════════════════════════════════════════════════════╗
-║  KHALED@ENGINEER:~$ neofetch                            ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   ██╗  ██╗███╗   ██╗       OS:     Engineer Linux 3.0   ║
-║   ██║ ██╔╝████╗  ██║       Host:   GitHub Universe      ║
-║   █████╔╝ ██╔██╗ ██║       Kernel: Computer Engineering ║
-║   ██╔═██╗ ██║╚██╗██║       Shell:  bash/python/node     ║
-║   ██║  ██╗██║ ╚████║       DE:     VS Code + Vim        ║
-║   ╚═╝  ╚═╝╚═╝  ╚═══╝       ─────────────────────────   ║
-║                              CPU:  C/C++  ████████░ 55% ║
-║   > Khaled Noaman            GPU:  Python ██████░░░ 25% ║
-║   > Computer Engineer        RAM:  TS/JS  ██░░░░░░░  8% ║
-║   > VMware & Networking      NET:  Scapy  █░░░░░░░░  5% ║
-║   > Building the future      DSK:  Verilog█░░░░░░░░  4% ║
-║                              SHL:  Bash   █░░░░░░░░  3% ║
-║   [■■■■■■■■■■] 100% Ready                               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```
+KHALED@ENGINEER:~$ neofetch
+─────────────────────────────
+ OS      Computer Engineering
+ Shell   C++ · Python · TypeScript
+ Focus   Networking · Infrastructure · Robotics
+ Tools   Docker · Linux · VMware · Git
+ Status  [■■■■■■■■■■] Ready to build
+─────────────────────────────
 ```
 
 </div>

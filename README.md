@@ -120,7 +120,7 @@ const khaled = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHALEDNOAMAN&theme=github-dark&hide_border=true&radius=10&area=true&area_color=7c3aed&line=00d4ff&point=ffffff&title_color=00d4ff" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDNOAMAN&theme=github_dark" width="90%" />
 </div>
 
 ---

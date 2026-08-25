@@ -36,9 +36,45 @@ const khaled = {
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,bash&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,vscode,docker,linux&theme=dark" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,bash&theme=dark" />
+
+**Networking & Infrastructure**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Embedded & IoT**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+**Web & Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,fastapi&theme=dark" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vim&theme=dark" />
+
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 </div>
 
 ---

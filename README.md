@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+firmware+that+makes+machines+think+%F0%9F%94%A7;Publishing+npm+packages+for+embedded+%26+IoT+%F0%9F%93%A6;Contributing+to+72K%2B+%E2%AD%90+open+source+projects+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%24+sudo+./deploy+--target+production+%F0%9F%9A%80;Building+networks+that+connect+the+world+%F0%9F%8C%90;Automating+infrastructure+at+scale+%E2%9A%A1;From+packets+to+cloud+%E2%80%94+full+stack+engineer+%F0%9F%94%A7;Open+source+contributor+%7C+20%2B+projects+shipped+%F0%9F%93%A6" />
 
 </div>
 
@@ -136,15 +136,29 @@ const khaled = {
 
 <div align="center">
 
-### 💻 Weekly Coding Breakdown
+### ⚡ System Status
 
-| Language | Usage | Focus |
-|:---|:---:|:---|
-| **C / C++** | 🟩🟩🟩🟩🟩🟩🟩🟩 80% | Firmware & DSA |
-| **Verilog** | 🟦 8% | Digital Logic & CPU Design |
-| **TypeScript** | 🟨 5% | npm Packages |
-| **Python** | 🟪 4% | Automation & CV |
-| **Shell** | 🟧 3% | DevOps & Scripts |
+```css
+╔══════════════════════════════════════════════════════════╗
+║  KHALED@ENGINEER:~$ neofetch                            ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   ██╗  ██╗███╗   ██╗       OS:     Engineer Linux 3.0   ║
+║   ██║ ██╔╝████╗  ██║       Host:   GitHub Universe      ║
+║   █████╔╝ ██╔██╗ ██║       Kernel: Computer Engineering ║
+║   ██╔═██╗ ██║╚██╗██║       Shell:  bash/python/node     ║
+║   ██║  ██╗██║ ╚████║       DE:     VS Code + Vim        ║
+║   ╚═╝  ╚═╝╚═╝  ╚═══╝       ─────────────────────────   ║
+║                              CPU:  C/C++  ████████░ 55% ║
+║   > Khaled Noaman            GPU:  Python ██████░░░ 25% ║
+║   > Computer Engineer        RAM:  TS/JS  ██░░░░░░░  8% ║
+║   > VMware & Networking      NET:  Scapy  █░░░░░░░░  5% ║
+║   > Building the future      DSK:  Verilog█░░░░░░░░  4% ║
+║                              SHL:  Bash   █░░░░░░░░  3% ║
+║   [■■■■■■■■■■] 100% Ready                               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 

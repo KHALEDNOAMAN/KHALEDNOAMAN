@@ -125,6 +125,15 @@ const khaled = {
 | [**InfraGuard**](https://github.com/KHALEDNOAMAN/InfraGuard) | Infrastructure health monitor for VMs, containers & servers with SSH checks, alerts & dashboards | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Paramiko](https://img.shields.io/badge/-SSH-000?style=flat-square) |
 | [**NetAutomate**](https://github.com/KHALEDNOAMAN/NetAutomate) | Network automation toolkit for router/switch/firewall config — VLAN provisioning, ACL management & compliance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Netmiko](https://img.shields.io/badge/-Netmiko-0078D4?style=flat-square) ![NAPALM](https://img.shields.io/badge/-NAPALM-FF6F00?style=flat-square) |
 | [**CloudNet-Sim**](https://github.com/KHALEDNOAMAN/CloudNet-Sim) | Virtual network & cloud simulator with SDN controller, firewall rules, load balancing & topology builder | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-4B8BBE?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+
+---
+
+## Automation & DevOps
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**OpsFlow**](https://github.com/KHALEDNOAMAN/OpsFlow) | Infrastructure Operations Platform — Server Monitoring, CVE Intelligence, Backup Automation & Incident Management with n8n workflows | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**CareerFlow-AI**](https://github.com/KHALEDNOAMAN/CareerFlow-AI) | AI-Powered Career Platform with CV Analysis, Job Matching, Skill Gap Detection & Automated Workflows | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 ---
 
 ## Community & Resources

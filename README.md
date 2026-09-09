@@ -134,6 +134,8 @@ const khaled = {
 |---------|-------------|------|
 | [**OpsFlow**](https://github.com/KHALEDNOAMAN/OpsFlow) | Infrastructure Operations Platform — Server Monitoring, CVE Intelligence, Backup Automation & Incident Management with n8n workflows | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | [**CareerFlow-AI**](https://github.com/KHALEDNOAMAN/CareerFlow-AI) | AI-Powered Career Platform with CV Analysis, Job Matching, Skill Gap Detection & Automated Workflows | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| [**InfraOps**](https://github.com/KHALEDNOAMAN/InfraOps) | Data Center & IT Asset Management — Rack Management, Asset Lifecycle, Capacity Planning & Change Management | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 ---
 
 ## Community & Resources

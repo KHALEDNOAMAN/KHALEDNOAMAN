@@ -18,6 +18,40 @@
 
 ---
 
+I am a **computer engineer**. I build across firmware, networking and the web, and the
+place I go deep is **embedded systems and control**: control loops, state estimation, and
+proving a system behaves before it leaves the bench.
+
+```
+ setpoint ──►( Σ )──► PID ──► mixer ──► ESC ──► airframe ──┬──► attitude
+               ▲                                           │
+               └─────────── EKF ◄── IMU · GPS · baro ◄──────┘
+```
+
+### Where I go deep
+
+**[DroneCtrl](https://github.com/KHALEDNOAMAN/DroneCtrl)** · quadcopter flight controller in C++ on ESP32.
+A fixed **250 Hz** loop. A **4-state extended Kalman filter** estimates roll, pitch and the
+gyro's two horizontal bias terms, treating the accelerometer as an observation of gravity
+and inflating its covariance in proportion to how far the measured magnitude departs from
+1 g, so a manoeuvring airframe de-weights the update instead of reading its own
+acceleration as tilt. Gains are derived from the plant rather than guessed: one microsecond
+of roll command gives about 13.3 deg/s², which sets ωn² = 13.3·Kp, and solving for
+ωn = 6 rad/s with ζ = 0.75 gives the shipped values. Verified by **53 host unit tests** that
+link the exact flight headers with no board attached, a **software-in-the-loop harness
+across 9 fault-injection scenarios**, and an **800-run Monte Carlo campaign**.
+
+**[AutoPilot](https://github.com/KHALEDNOAMAN/AutoPilot)** · autonomous RC car on ESP32. A* path planning, PID lane following, camera calibration.
+
+**[RoboArm](https://github.com/KHALEDNOAMAN/RoboArm)** · 6-DOF arm on Arduino. Inverse kinematics, trajectory planning, servo calibration.
+
+**[RISC-16bit-Processor](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor)** · 16-bit RISC CPU in Verilog. 5-stage pipeline, cache, hazard detection.
+
+Everything else below is real work too, in networking, infrastructure and the web. This
+section is the part I would want to be asked about in an interview.
+
+---
+
 ## About Me
 
 ```typescript

@@ -56,7 +56,7 @@ section is the part I would want to be asked about in an interview.
 
 ```typescript
 const khaled = {
-    role: "Computer Engineering Student",
+    role: "Computer Engineer",
     focus: ["Embedded Systems", "Networking", "Cloud Infrastructure", "Robotics"],
     languages: ["C", "C++", "Python", "TypeScript", "Verilog", "Bash"],
     tools: ["Arduino", "ESP32", "Raspberry Pi", "STM32", "Linux"],

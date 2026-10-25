@@ -18,37 +18,39 @@
 
 ---
 
-I am a **computer engineer**. I build across firmware, networking and the web, and the
-place I go deep is **embedded systems and control**: control loops, state estimation, and
-proving a system behaves before it leaves the bench.
+<div align="center">
 
-```
- setpoint ──►( Σ )──► PID ──► mixer ──► ESC ──► airframe ──┬──► attitude
-               ▲                                           │
-               └─────────── EKF ◄── IMU · GPS · baro ◄──────┘
-```
+<h3>I build across firmware, networking and the web.<br/>Where I go deep is <b>embedded systems and control</b>.</h3>
 
-### Where I go deep
+<sub>control loops · state estimation · proving a system behaves before it leaves the bench</sub>
 
-**[DroneCtrl](https://github.com/KHALEDNOAMAN/DroneCtrl)** · quadcopter flight controller in C++ on ESP32.
-A fixed **250 Hz** loop. A **4-state extended Kalman filter** estimates roll, pitch and the
-gyro's two horizontal bias terms, treating the accelerometer as an observation of gravity
-and inflating its covariance in proportion to how far the measured magnitude departs from
-1 g, so a manoeuvring airframe de-weights the update instead of reading its own
-acceleration as tilt. Gains are derived from the plant rather than guessed: one microsecond
-of roll command gives about 13.3 deg/s², which sets ωn² = 13.3·Kp, and solving for
-ωn = 6 rad/s with ζ = 0.75 gives the shipped values. Verified by **53 host unit tests** that
-link the exact flight headers with no board attached, a **software-in-the-loop harness
-across 9 fault-injection scenarios**, and an **800-run Monte Carlo campaign**.
+<br/><br/>
 
-**[AutoPilot](https://github.com/KHALEDNOAMAN/AutoPilot)** · autonomous RC car on ESP32. A* path planning, PID lane following, camera calibration.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/control-loop-dark.svg"/>
+  <img src="./assets/control-loop-light.svg" alt="Attitude control loop: setpoint into a summing junction, three-axis PID, saturation-aware mixer, four ESCs, airframe; attitude fed back through IMU, GPS and barometer into a four-state EKF" width="100%"/>
+</picture>
 
-**[RoboArm](https://github.com/KHALEDNOAMAN/RoboArm)** · 6-DOF arm on Arduino. Inverse kinematics, trajectory planning, servo calibration.
+<br/>
 
-**[RISC-16bit-Processor](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor)** · 16-bit RISC CPU in Verilog. 5-stage pipeline, cache, hazard detection.
+<img src="https://img.shields.io/badge/control_loop-250_Hz-0d1117?style=for-the-badge&labelColor=161b22&color=00d4ff" />
+<img src="https://img.shields.io/badge/estimator-4--state_EKF-0d1117?style=for-the-badge&labelColor=161b22&color=7c3aed" />
+<img src="https://img.shields.io/badge/host_tests-53_passing-0d1117?style=for-the-badge&labelColor=161b22&color=00ff88" />
+<img src="https://img.shields.io/badge/fault_scenarios-9-0d1117?style=for-the-badge&labelColor=161b22&color=00d4ff" />
+<img src="https://img.shields.io/badge/Monte_Carlo-800_runs-0d1117?style=for-the-badge&labelColor=161b22&color=7c3aed" />
 
-Everything else below is real work too, in networking, infrastructure and the web. This
-section is the part I would want to be asked about in an interview.
+</div>
+
+<br/>
+
+| | what makes it worth reading |
+|---|---|
+| **[DroneCtrl](https://github.com/KHALEDNOAMAN/DroneCtrl)**<br/><sub>`C++` `ESP32`</sub> | Quadcopter flight controller on a fixed **250 Hz** loop. A **4-state EKF** estimates roll, pitch and the gyro's two horizontal bias terms, treating the accelerometer as an observation of gravity and inflating its covariance as the measured magnitude departs from 1 g, so a manoeuvring airframe de-weights the update instead of reading its own acceleration as tilt. Gains come from the plant, not from guessing: 1 µs of roll command gives ≈13.3 deg/s², so ωn² = 13.3·Kp, and ωn = 6 rad/s with ζ = 0.75 fixes the values. |
+| **[AutoPilot](https://github.com/KHALEDNOAMAN/AutoPilot)**<br/><sub>`C++` `ESP32` `TypeScript`</sub> | Autonomous RC car. A\* path planning, PID lane following, camera calibration, and a 2D simulator you can drive in the browser. |
+| **[RoboArm](https://github.com/KHALEDNOAMAN/RoboArm)**<br/><sub>`Arduino` `TypeScript`</sub> | 6-DOF arm with inverse kinematics, trajectory planning and servo calibration, plus a 3D simulator. |
+| **[RISC-16bit-Processor](https://github.com/KHALEDNOAMAN/RISC-16bit-Processor)**<br/><sub>`Verilog`</sub> | 16-bit RISC CPU. 5-stage pipeline, cache, hazard detection, ALU and datapath, simulated with Icarus Verilog and ModelSim. |
+
+<sub>Everything below is real work too, in networking, infrastructure and the web. This section is the part I would want to be asked about in an interview.</sub>
 
 ---
 

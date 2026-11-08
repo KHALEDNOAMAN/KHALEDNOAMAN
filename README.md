@@ -27,8 +27,8 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/control-loop-dark.svg"/>
-  <img src="./assets/control-loop-light.svg" alt="Attitude control loop: setpoint into a summing junction, three-axis PID, saturation-aware mixer, four ESCs, airframe; attitude fed back through IMU, GPS and barometer into a four-state EKF" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mission-dark.svg"/>
+  <img src="./assets/mission-light.svg" alt="Animated mission map: a quadcopter flies a loop through four waypoints named DroneCtrl, AutoPilot, RoboArm and RISC-16bit, an attitude indicator banks with each turn, and a card shows each project's key numbers on arrival" width="100%"/>
 </picture>
 
 <br/>
